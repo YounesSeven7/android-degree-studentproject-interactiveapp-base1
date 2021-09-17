@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">اقترح مكان أو نشاط</string>
     <string name="suggest">اقترح</string>
+    <string name="park">حديقة</string>
+    <string name="beach">شاطئ</string>
+    <string name="bike">دراجة</string>
+    <string name="football">كرة القدم</string>
+    <string name="museum">متحف</string>
+    <string name="restaurant">مطعم</string>
+    <string name="running">الجري</string>
+    <string name="shop">الشراء</string>
+    <string name="swimming">السباحة</string>
+    <string name="walking">المشي</string>
 </resources>

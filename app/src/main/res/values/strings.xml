@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">Suggest a place or activity</string>
     <string name="suggest">Suggest</string>
+    <string name="park">park</string>
+    <string name="beach">beach</string>
+    <string name="bike">bike</string>
+    <string name="football">footBall</string>
+    <string name="museum">museum</string>
+    <string name="restaurant">restaurant</string>
+    <string name="running">running</string>
+    <string name="shop">shop</string>
+    <string name="swimming">swimming</string>
+    <string name="walking">walking</string>
+
 </resources>
